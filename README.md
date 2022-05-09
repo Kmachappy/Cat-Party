@@ -6,7 +6,7 @@
 <h3 align="center">C̶̹̓a̴̱̖͆͠t̷̮̝͋ ̸̠̐P̷̭͙̀a̵̬͚̋r̸͖̋̀t̸̬̚ͅẙ̷͍͑!̸̥̼̍</h3>
 </a> 
 <a href="https://cat-party.herokuapp.com/">
-    <img src="https://i.imgur.com/zXHi1ms.jpg" alt="Logo" width="250" height="150">
+    <img src="https://i.imgur.com/zXHi1ms.jpg" alt="Logo" width="400" height="350">
 </a>
 
 

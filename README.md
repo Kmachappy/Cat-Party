@@ -1,3 +1,31 @@
+
+
+
+<div align="center">
+<a href="https://github.com/Kmachappy/Runners-Page">
+<h3 align="center">C̶̹̓a̴̱̖͆͠t̷̮̝͋ ̸̠̐P̷̭͙̀a̵̬͚̋r̸͖̋̀t̸̬̚ͅẙ̷͍͑!̸̥̼̍</h3>
+</a> 
+<a href="https://cat-party.herokuapp.com/">
+    <img src="https://i.imgur.com/zXHi1ms.jpg" alt="Logo" width="250" height="150">
+</a>
+
+
+
+  <p align="center">
+    <p>D̵̘͗u̷̠͊m̷̘̚b̶̙̐ ̷͖͋Ć̴̜á̶̢ẗ̷̩́ ̴̹́P̵̪̒a̴̘͌g̵̢̈ē̸̳ ̶̲̈m̷̤̀a̴̝̔d̴̞̀e̵͉̊ ̷̲͝ẅ̶̩i̴̫̓t̸͆ͅh̸͈̆ ̶̤̔Ř̶̡ě̴͖ả̷̤c̷͓̈t̷͕̄!̸͉̀ ̴̥̕d̷̡̀ō̵̢n̶͉͝'̴̢͝t̶͇̀ ̷̜͂a̷̡̾s̵̀͜k̵̖̐ ̸̮̆w̵͔̚h̶̳̑y̸͓͌!</p>
+    <a href="https://cat-party.herokuapp.com/"><strong>Live Website - C̶̹̓a̴̱̖͆͠t̷̮̝͋ ̸̠̐P̷̭͙̀a̵̬͚̋r̸͖̋̀t̸̬̚ͅẙ̷͍͑!̸̥̼̍</strong></a>
+    <br />
+    generate 6 random cat images<br>
+    generates random radial background on click <br>
+    play song on click<br>
+
+wish i knew how to make someting cool not some dumb kitty website
+
+  </p>
+</div>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

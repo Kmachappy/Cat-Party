@@ -70,7 +70,7 @@ function App() {
       <Giphy giphy={giphy}/>
       <div className="footer">
         <a id="idk" href="https://yyyyyyy.info/">
-      {/* kill me please*/}
+      {/* kill me please */}
           <button>kill me...</button>
         </a>
         {/* <a id="idk2" href='https://pnrtscr.com/kqrkc7'><button>!!!DONT CLICK ME!!!!</button></a> */}

@@ -18,11 +18,14 @@
     generate 6 random cat images<br>
     generates random radial background on click <br>
     play song on click<br>
+    intentionally made to look bad<br>
 
 wish i knew how to make someting cool not some dumb kitty website
 
+<img src="https://i.imgur.com/pmvJw2W.png" width="600">
   </p>
 </div>
+
 
 
 

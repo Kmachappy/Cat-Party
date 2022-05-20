@@ -71,7 +71,7 @@ function App() {
       <div className="footer">
         <a id="idk" href="https://yyyyyyy.info/">
       {/* kill me please */}
-          <button>kill me...</button>
+          <button>yyyyyyy.</button>
         </a>
         {/* <a id="idk2" href='https://pnrtscr.com/kqrkc7'><button>!!!DONT CLICK ME!!!!</button></a> */}
       </div>
